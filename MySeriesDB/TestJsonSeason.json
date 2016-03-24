@@ -1,0 +1,320 @@
+{
+	"_id":"5257700b760ee36aaa46d30f",
+	"air_date":"2001-10-02",
+	"episodes":
+	[
+		{
+			"air_date":"2001-10-02",
+			"crew":
+			[
+				{"id":1216859,"credit_id":"5257700d760ee36aaa46d5fd","name":"Bill Lawrence","department":"Writing","job":"Writer","profile_path":null},
+				{"id":111338,"credit_id":"5257700d760ee36aaa46d631","name":"Adam Bernstein","department":"Directing","job":"Director","profile_path":"/h5TqewYvopqv2AeZytYcrMSupqu.jpg"},
+				{"id":1222591,"credit_id":"5257700d760ee36aaa46d749","name":"Eric Weinberg","department":"Writing","job":"Writer","profile_path":null},
+				{"id":1216859,"credit_id":"52577015760ee36aaa46e68e","name":"Bill Lawrence","department":"Directing","job":"Director","profile_path":null}
+			],
+			"episode_number":1,
+			"guest_stars":
+			[
+				{"id":35521,"name":"Matt Winston","credit_id":"5257700c760ee36aaa46d4cf","character":"","order":0,"profile_path":"/vjXom4PhSWEkXlQDhh8ubTFoiIq.jpg"},
+				{"id":116907,"name":"Marshall Manesh","credit_id":"52577014760ee36aaa46e5ee","character":"","order":1,"profile_path":"/168Eocdc4VrVHMf76kLU6QqK6cL.jpg"},
+				{"id":1216705,"name":"Robert Maschio","credit_id":"5257700c760ee36aaa46d501","character":"","order":1,"profile_path":"/fXZLhCFMYlqdOKT5hsi9ANWcGvR.jpg"},
+				{"id":69122,"name":"Heather Graham","credit_id":"52577014760ee36aaa46e620","character":"","order":2,"profile_path":"/xqKEAblSGSj41hjaiydLiM9BT8h.jpg"},
+				{"id":46920,"name":"Sam Lloyd","credit_id":"5257700c760ee36aaa46d533","character":"","order":2,"profile_path":"/xLSxSkq41HNGmK5cCeXqnki8CIz.jpg"},
+				{"id":212821,"name":"Christa Miller","credit_id":"5257700e760ee36aaa46da0b","character":"","order":2,"profile_path":"/zPdU6x3PZRon5e8niwqziPJJb0b.jpg"},
+				{"id":78030,"name":"Ashley Benson","credit_id":"52577015760ee36aaa46e652","character":"","order":3,"profile_path":"/wIRcYgnVqxZEPzxAXUWFISSoiQg.jpg"},
+				{"id":1231142,"name":"Michael Hobert","credit_id":"5257700c760ee36aaa46d565","character":"","order":3,"profile_path":null},
+				{"id":49551,"name":"Aloma Wright","credit_id":"5257700d760ee36aaa46d597","character":"Laverne Roberts","order":4,"profile_path":"/wpVaXLACJ4bh1xNniHCyZxl28TV.jpg"},
+				{"id":43776,"name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c9","character":"","order":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}
+			],
+			"name":"My First Day",
+			"overview":"John Dorian, \"J.D.\" to friends, is a boyishly handsome, self-deprecatingly funny, likeable guy who would be confident if he only realized his assets. Four years of medical school have prepared J.D. for his first day as an intern at Sacred Heart Hospital - but he has his doubts. As J.D. is thrown into the chaotic world of hospital life, we not only get to see the quirky characters that he encounters, but also hear the humorous commentary of thoughts streaming through J.D.'s head. By J.D.'s side is his best friend since college, the handsome and confident Chris Turk. As a new surgical intern, Turk struts around with a gregarious and cocky demeanor that hides a terror that he only admits to J.D. Both guys initially have the hots for their attractive fellow intern, Elliot Reid, but J.D. quickly finds out her beauty is only surpassed by her hyper-competitive attitude. Guiding the interns' education are those with more medical experience. Dr. Robert \"Bob\" Kelso, Chief of Medicine, wants the interns to think they can count on him. On the other side of the personality spectrum is Dr. Percival \"Perry\" Cox, a steamroller of a man short on patience. Watching over the interns with a caustically teasing but caring demeanor, is nurse Carla Espinosa, a woman who is motherly and sexy at the same time - which appeals mightily to Turk.",
+			"id":326465,
+			"production_code":null,
+			"season_number":1,
+			"still_path":"/jIQnOq0bXgm1GkMoH1Hdz28aYVQ.jpg",
+			"vote_average":0.0,
+			"vote_count":0
+		},
+		{
+			"air_date":"2001-10-04",
+			"crew":
+			[
+				{"id":1216859,"credit_id":"5257700d760ee36aaa46d5fd","name":"Bill Lawrence","department":"Writing","job":"Writer","profile_path":null},
+				{"id":111338,"credit_id":"5257700d760ee36aaa46d631","name":"Adam Bernstein","department":"Directing","job":"Director","profile_path":"/h5TqewYvopqv2AeZytYcrMSupqu.jpg"}
+			],
+			"episode_number":2,
+			"guest_stars":
+			[
+				{"id":1216705,"name":"Robert Maschio","credit_id":"5257700c760ee36aaa46d501","character":"","order":1,"profile_path":"/fXZLhCFMYlqdOKT5hsi9ANWcGvR.jpg"},
+				{"id":151383,"name":"John Ducey","credit_id":"5257700d760ee36aaa46d67f","character":"","order":2,"profile_path":"/9rTBtg4FpyVmpd7xvYDzWUS8Br4.jpg"},
+				{"id":43776,"name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c9","character":"","order":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}
+			],
+			"name":"My Mentor",
+			"overview":"J.D. tries to persuade a smoker patient to quit smoking in order to impress Dr. Cox, who is just feeling lonely in his opinion. Elliot's attitude towards Carla annoys her, thus Turk is able to go on a date with Carla, when he convinces her to forgive Elliot.",
+			"id":326466,
+			"production_code":null,
+			"season_number":1,
+			"still_path":"/mzsEgq07DbWkeziITniziJ2djuw.jpg",
+			"vote_average":0.0,
+			"vote_count":0
+		},
+		{
+			"air_date":"2001-10-09",
+			"crew":
+			[
+				{"id":1216859,"credit_id":"5257700d760ee36aaa46d5fd","name":"Bill Lawrence","department":"Writing","job":"Writer","profile_path":null},
+				{"id":111338,"credit_id":"5257700d760ee36aaa46d631","name":"Adam Bernstein","department":"Directing","job":"Director","profile_path":"/h5TqewYvopqv2AeZytYcrMSupqu.jpg"},
+				{"id":1222591,"credit_id":"5257700d760ee36aaa46d749","name":"Eric Weinberg","department":"Writing","job":"Writer","profile_path":null}
+			],
+			"episode_number":3,
+			"guest_stars":
+			[
+				{"id":62833,"name":"Charles Rahi Chun","credit_id":"5257700d760ee36aaa46d6d1","character":"","order":0,"profile_path":"/eQIo5xMlggtkmWbZDM8UsMqr7pS.jpg"},
+				{"id":81663,"name":"Vanessa Marshall","credit_id":"5257700d760ee36aaa46d703","character":"","order":1,"profile_path":"/wOXilt4TVOd0LuTw6RbWhe5DUy4.jpg"},
+				{"id":1216705,"name":"Robert Maschio","credit_id":"5257700c760ee36aaa46d501","character":"","order":1,"profile_path":"/fXZLhCFMYlqdOKT5hsi9ANWcGvR.jpg"},
+				{"id":46920,"name":"Sam Lloyd","credit_id":"5257700c760ee36aaa46d533","character":"","order":2,"profile_path":"/xLSxSkq41HNGmK5cCeXqnki8CIz.jpg"},
+				{"id":43776,"name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c9","character":"","order":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}
+			],
+			"name":"My Best Friend's Mistake",
+			"overview":"J.D. begins to feel distant from Turk, when he leaves him abandoned every time that he tries to talk to him. Elliot fights with Kelso for calling her \"sweetheart,\" and she seeks Dr. Cox's advice. J.D.'s relationship with Elliot goes in a time race, when he has 48 hours to kiss her before he is put into her \"Friend Zone.\"",
+			"id":326467,
+			"production_code":null,
+			"season_number":1,
+			"still_path":"/4DuysPpQOuUN034v86Daezn43QY.jpg",
+			"vote_average":0.0,
+			"vote_count":0
+		},
+		{"air_date":"2001-10-16","crew":[{"id":58061,"credit_id":"5257700d760ee36aaa46d86f","name":"Matt Tarses","department":"Writing","job":"Writ
+		er","profile_path":null},{"id":1217930,"credit_id":"5257700d760ee36aaa46d8a3","name":"Marc Buckland","department":"Directing","job":"Directo
+		r","profile_path":null}],"episode_number":4,"guest_stars":[{"id":106935,"name":"Kathryn Joosten","credit_id":"5257700d760ee36aaa46d799","cha
+		racter":"","order":0,"profile_path":"/jvZVB4qJT6EmDBcYhwsRkKjCnUP.jpg"},{"id":62833,"name":"Charles Rahi Chun","credit_id":"5257700d760ee36aa
+		a46d6d1","character":"","order":0,"profile_path":"/eQIo5xMlggtkmWbZDM8UsMqr7pS.jpg"},{"id":57404,"name":"Travis Wester","credit_id":"5257700d
+		760ee36aaa46d7d1","character":"","order":2,"profile_path":"/3pRPTZ7jhuMJzING7eouoFoqinQ.jpg"},{"id":71861,"name":"Liliana Mumy","credit_id":"5
+		257700d760ee36aaa46d803","character":"","order":3,"profile_path":"/4c6lvdaHUVwGris03W8XadYOOwk.jpg"},{"id":1212125,"name":"Lela Lee","credit_id
+		":"5257700d760ee36aaa46d835","character":"","order":4,"profile_path":null},{"id":43776,"name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c
+		9","character":"","order":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}],"name":"My Old Lady","overview":"The three interns are each ass
+		igned patients with various illnesses. Statistically speaking, one of the three is going to die. J.D.'s patient is 86 year old Mrs. Tanner, who
+		is in renal failure. 20 year old David Morrison is Turk's hernia patient and Elliot's patient Mrs. Guerrero only speaks Spanish and might have 
+		lupus.","id":326468,"production_code":null,"season_number":1,"still_path":"/xHxjc7xq7jW7UiDxKk9Y0s5altl.jpg","vote_average":0.0,"vote_count":0}
+		,{"air_date":"2001-10-23","crew":[{"id":1213824,"credit_id":"5257700e760ee36aaa46d991","name":"Craig Zisk","department":"Directing","job":"Dire
+		ctor","profile_path":null},{"id":1224478,"credit_id":"5257700e760ee36aaa46d92b","name":"Neil Goldman","department":"Writing","job":"Writer","pro
+		file_path":null},{"id":1224479,"credit_id":"5257700e760ee36aaa46d95d","name":"Garrett Donovan","department":"Writing","job":"Writer","profile_pa
+		th":null}],"episode_number":5,"guest_stars":[{"id":35521,"name":"Matt Winston","credit_id":"5257700c760ee36aaa46d4cf","character":"","order":0,"p
+		rofile_path":"/vjXom4PhSWEkXlQDhh8ubTFoiIq.jpg"},{"id":44795,"name":"Louie Anderson","credit_id":"5257700d760ee36aaa46d8eb","character":"","order
+		":1,"profile_path":"/1I1kp4yhGcg8u6zJpH43RnVpKWy.jpg"},{"id":1216705,"name":"Robert Maschio","credit_id":"5257700c760ee36aaa46d501","character":""
+		,"order":1,"profile_path":"/fXZLhCFMYlqdOKT5hsi9ANWcGvR.jpg"},{"id":43776,"name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c9","character":""
+		,"order":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}],"name":"My Two Dads","overview":"J.D. points out what seems to be a technical mista
+		ke to Dr. Kelso, but it was really an attempt of Dr. Cox to save a woman without insurance using a dead guy's insurance. Dr. Kelso and Dr. Cox sho
+		w J.D. their different ways of looking at medicine. Meanwhile, the Janitor intimidates J.D., Elliot discovers the healing powers of her boobs and
+		Turk gives Carla a pen he thought he took from the Lost and Found box.","id":326469,"production_code":null,"season_number":1,"still_path":"/xTt6zH
+		wBzYtL6M64RYnqNWxUEbF.jpg","vote_average":0.0,"vote_count":0},{"air_date":"2001-10-30","crew":[{"id":1237024,"credit_id":"5257700e760ee36aaa46da45
+		","name":"Gabrielle Allan","department":"Writing","job":"Writer","profile_path":null},{"id":1217930,"credit_id":"5257700d760ee36aaa46d8a3","name":"
+		Marc Buckland","department":"Directing","job":"Director","profile_path":null}],"episode_number":6,"guest_stars":[{"id":31366,"name":"Jimmie Walker",
+		"credit_id":"5257700e760ee36aaa46d9d3","character":"","order":0,"profile_path":"/3E8l7vhY1LHSOqbb6UTjRpHIZRM.jpg"},{"id":46920,"name":"Sam Lloyd","cr
+		edit_id":"5257700c760ee36aaa46d533","character":"","order":2,"profile_path":"/xLSxSkq41HNGmK5cCeXqnki8CIz.jpg"},{"id":212821,"name":"Christa Miller",
+		"credit_id":"5257700e760ee36aaa46da0b","character":"","order":2,"profile_path":"/zPdU6x3PZRon5e8niwqziPJJb0b.jpg"},{"id":43776,"name":"Neil Flynn","cr
+		edit_id":"5257700d760ee36aaa46d5c9","character":"","order":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}],"name":"My Bad","overview":"Dr. Cox 
+		is still facing the threat of suspension, and coincidentally, J.D. is assigned to a special patient: Jordan Sullivan, an important board member. She 
+		is very demanding and J.D. ends up sleeping with her after he confronts her. Only he didn't know that she is Dr. Cox's ex-wife, and now the only one 
+		who can save J.D.'s mentor from being fired by the evil Dr. Kelso.\n\nMeanwhile, Elliot is assigned to take care of a shrink whose jaw has been wired
+		shut, and for whom she ends up becoming a patient. Carla's mom makes a scandal after Turk spends the night at Carla's, and when she breaks her leg, C
+		arla blames Turk for it.","id":326470,"production_code":null,"season_number":1,"still_path":"/9tCzMe7dEC3sYIVe5IZPQ3DuFF4.jpg","vote_average":0.0,"vo
+		te_count":0},{"air_date":"2001-11-06","crew":[{"id":1215798,"credit_id":"5257700e760ee36aaa46db73","name":"Peter Lauer","department":"Directing","job
+		":"Director","profile_path":null},{"id":1228157,"credit_id":"5257700e760ee36aaa46db3f","name":"Mike Schwartz","department":"Writing","job":"Writer","
+		profile_path":null}],"episode_number":7,"guest_stars":[{"id":62833,"name":"Charles Rahi Chun","credit_id":"5257700d760ee36aaa46d6d1","character":"","o
+		rder":0,"profile_path":"/eQIo5xMlggtkmWbZDM8UsMqr7pS.jpg"},{"id":128155,"name":"Johnny Kastl","credit_id":"5257700e760ee36aaa46da8f","character":"","
+		order":0,"profile_path":null},{"id":1216705,"name":"Robert Maschio","credit_id":"5257700c760ee36aaa46d501","character":"","order":1,"profile_path":"/
+		fXZLhCFMYlqdOKT5hsi9ANWcGvR.jpg"},{"id":85421,"name":"Time Winters","credit_id":"5257700e760ee36aaa46dac7","character":"","order":2,"profile_path":nul
+l},{"id":52601,"name":"Sean Hayes","credit_id":"5257700e760ee36aaa46daf9","character":"","order":3,"profile_path":"/tkJiMSkm2aEsLiSy5HsgEmxINpZ.jpg"},{"id":49551
+,"name":"Aloma Wright","credit_id":"5257700d760ee36aaa46d597","character":"Laverne Roberts","order":4,"profile_path":"/wpVaXLACJ4bh1xNniHCyZxl28TV.jpg"},{"id":43
+776,"name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c9","character":"","order":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}],"name":"My Super Ego"
+,"overview":"J.D. has finally earned the spot as brightest student, but he's got competition: Nick Murdoch, who seems to be nicer, friendlier and has a better but
+t than him. But even J.D. can't hate the guy, for he is so nice. But he is surprised when he finds Nick sitting in a corner crying because he can't take the press
+ure of medical internship.\n\nMeanwhile, Turk is having problems at the operation table and doesn't tell Carla, who keeps bothering Dr. Cox about it.\n\nAnd Dr. C
+ox gives Turk a very unique suggestion on how to calm down before surgery.","id":326471,"production_code":null,"season_number":1,"still_path":"/anJbqGGwYVxiQwrqTu
+tT927yimO.jpg","vote_average":0.0,"vote_count":0},{"air_date":"2001-11-15","crew":[{"id":1215673,"credit_id":"5257700e760ee36aaa46dbfd","name":"Lawrence Trilling"
+,"department":"Directing","job":"Director","profile_path":null},{"id":1222591,"credit_id":"5257700d760ee36aaa46d749","name":"Eric Weinberg","department":"Writing"
+,"job":"Writer","profile_path":null}],"episode_number":8,"guest_stars":[{"id":4741,"name":"Cayden Boyd","credit_id":"5257700e760ee36aaa46dbb5","character":"","ord
+er":0,"profile_path":"/fUs3Q321AELBrSxxm0W3OZlIhi.jpg"},{"id":46920,"name":"Sam Lloyd","credit_id":"5257700c760ee36aaa46d533","character":"","order":2,"profile_pa
+th":"/xLSxSkq41HNGmK5cCeXqnki8CIz.jpg"},{"id":43776,"name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c9","character":"","order":5,"profile_path":"/2s934K6IO
+UhtjXul54wJbmkeZhK.jpg"}],"name":"My Fifteen Minutes","overview":"J.D. and Turk become heroes after saving a cameraman's life on TV, while heading to a strip club
+. But Turk quickly becomes the target of a new publicity campaign led by Dr. Kelso, exploiting the hospital's diversity.\n\nMeanwhile, J.D. worries about his eval
+uation. Elliot is going out with Carla, but in the last minute she blows her off and later Elliot runs into her in a bar.","id":326472,"production_code":null,"sea
+son_number":1,"still_path":"/vUFEo3ZlKsxgzJ10NEuQKaD2iSS.jpg","vote_average":0.0,"vote_count":0},{"air_date":"2001-11-20","crew":[{"id":154528,"credit_id":"525770
+10760ee36aaa46dce8","name":"Elodie Keene","department":"Directing","job":"Director","profile_path":"/ftnarpMjpVibsNWiQS0dfl2EJnw.jpg"},{"id":1237140,"credit_id":"
+52577010760ee36aaa46dcb4","name":"Janae Bakken","department":"Writing","job":"Writer","profile_path":null}],"episode_number":9,"guest_stars":[{"id":62833,"name":"
+Charles Rahi Chun","credit_id":"5257700d760ee36aaa46d6d1","character":"","order":0,"profile_path":"/eQIo5xMlggtkmWbZDM8UsMqr7pS.jpg"},{"id":178926,"name":"Michael
+ McDonald","credit_id":"5257700f760ee36aaa46dc3f","character":"","order":0,"profile_path":"/5HiNCkBAMdhj3sz1eTfgcsl6wuQ.jpg"},{"id":1212556,"name":"Paul Collins",
+ "credit_id":"5257700f760ee36aaa46dc77","character":"","order":2,"profile_path":"/5ledDuBp57ESqz2Ug8EJCkz02AA.jpg"},{"id":43776,"name":"Neil Flynn","credit_id":"5
+ 257700d760ee36aaa46d5c9","character":"","order":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}],"name":"My Day Off","overview":"J.D. gets to see the hospit
+ al through the eyes of a patient when he's admitted for appendicitis. Elliot examines him and he tells everyone how cold and rough she is, which drives her crazy
+ . J.D. doesn't want Turk to operate on him, which hurts Turk's feelings.\n\nMeanwhile, Dr. Cox is trying to show off to his mentor, Dr. Benson, the ex-chief of m
+ edicine, who is also a patient at the hospital. The only thing in his way is Dr. Kelso, who almost dismissed Dr. Benson prematurely.","id":326473,"production_cod
+ e":null,"season_number":1,"still_path":"/t3vTU6FgqzVPX0Hhjo8aJhw8fqS.jpg","vote_average":0.0,"vote_count":0},{"air_date":"2001-11-27","crew":[{"id":1213358,"cred
+ it_id":"52577010760ee36aaa46dd7e","name":"Matthew Diamond","department":"Directing","job":"Director","profile_path":null},{"id":1216859,"credit_id":"5257700d760e
+ e36aaa46d5fd","name":"Bill Lawrence","department":"Writing","job":"Writer","profile_path":null}],"episode_number":10,"guest_stars":[{"id":16845,"name":"Nicole Su
+ llivan","credit_id":"52577010760ee36aaa46dd36","character":"","order":0,"profile_path":"/q2SXssaDMSuTGna4gw5aoFDFUEF.jpg"},{"id":1216705,"name":"Robert Maschio",
+ "credit_id":"5257700c760ee36aaa46d501","character":"","order":1,"profile_path":"/fXZLhCFMYlqdOKT5hsi9ANWcGvR.jpg"},{"id":43776,"name":"Neil Flynn","credit_id":"5
+ 257700d760ee36aaa46d5c9","character":"","order":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}],"name":"My Nickname","overview":"J.D. begins a new relation
+ ship with Carla. J.D. gains a new nickname - \"Scooter\" - and his relationship with Nurse Carla evolves as he begins to out-distance her medical knowledge, whil
+ e Turk trembles, when he learns that his secret lunch spot was claimed years ago by the territorial Dr. Kelso.\n\nElsewhere, Dr. Cox gives Elliot the evil eye wh
+ en she won't discharge a troublesome patient.","id":326474,"production_code":null,"season_number":1,"still_path":"/30mntxkRYthXJx5g5RwtbqSUj7o.jpg","vote_average
+ ":0.0,"vote_count":0},{"air_date":"2001-12-11","crew":[{"id":1212911,"credit_id":"52577012760ee36aaa46de69","name":"Jeff Melman","department":"Directing","job":"
+ Director","profile_path":null},{"id":1237141,"credit_id":"52577012760ee36aaa46de35","name":"Debra Fordham","department":"Writing","job":"Writer","profile_path":n
+ ull}],"episode_number":11,"guest_stars":[{"id":1236885,"name":"Paul Connor","credit_id":"52577010760ee36aaa46ddcc","character":"","order":2,"profile_path":null},
+ {"id":58512,"name":"Steve Tom","credit_id":"52577010760ee36aaa46ddfe","character":"","order":3,"profile_path":"/ptnGjngOH5rbGDDewk5OESqxs3A.jpg"},{"id":49551,"na
+ me":"Aloma Wright","credit_id":"5257700d760ee36aaa46d597","character":"Laverne Roberts","order":4,"profile_path":"/wpVaXLACJ4bh1xNniHCyZxl28TV.jpg"},{"id":43776,
+ "name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c9","character":"","order":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}],"name":"My Own Personal J
+ esus","overview":"It's Christmas, and even though J.D. and the others don't really feel like celebrating, Turk makes a huge deal about it. But his faith and happ
+ iness are gone after a very busy night at the hospital.\n\nDr. Cox has J.D. videotape the birth of the child of one of his friends.","id":326475,"production_code
+ ":null,"season_number":1,"still_path":"/A727nVhk5dabu6TzMu8hEYnWXmf.jpg","vote_average":0.0,"vote_count":0},{"air_date":"2002-01-08","crew":[{"id":1222719,"credi
+ t_id":"52577012760ee36aaa46defd","name":"Mark Stegemann","department":"Writing","job":"Writer","profile_path":null},{"id":1217930,"credit_id":"5257700d760ee36aaa
+ 46d8a3","name":"Marc Buckland","department":"Directing","job":"Director","profile_path":null}],"episode_number":12,"guest_stars":[{"id":31366,"name":"Jimmie Walk
+ er","credit_id":"5257700e760ee36aaa46d9d3","character":"","order":0,"profile_path":"/3E8l7vhY1LHSOqbb6UTjRpHIZRM.jpg"},{"id":178926,"name":"Michael McDonald","cr
+ edit_id":"5257700f760ee36aaa46dc3f","character":"","order":0,"profile_path":"/5HiNCkBAMdhj3sz1eTfgcsl6wuQ.jpg"},{"id":89292,"name":"Elizabeth Bogush","credit_id"
+ :"52577012760ee36aaa46deb1","character":"","order":1,"profile_path":null},{"id":46920,"name":"Sam Lloyd","credit_id":"5257700c760ee36aaa46d533","character":"","o
+ rder":2,"profile_path":"/xLSxSkq41HNGmK5cCeXqnki8CIz.jpg"},{"id":49551,"name":"Aloma Wright","credit_id":"5257700d760ee36aaa46d597","character":"Laverne Roberts"
+ ,"order":4,"profile_path":"/wpVaXLACJ4bh1xNniHCyZxl28TV.jpg"},{"id":43776,"name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c9","character":"","order":5,"pr
+ ofile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}],"name":"My Blind Date","overview":"A woman slips and falls on the wet floor of the hospital. Afraid that she mig
+ ht sue the hospital, Dr. Kelso asks J.D. to stand by her and be friendly, so she won't sue them. But J.D. is very busy with Dr. Cox's 24-hour marathon to keep hi
+ s ICU patients alive.\n\nElliot is desperate for some attention from Dr. Cox. Meanwhile, Turk snaps at Carla when she steals fries from his plate.","id":326476,"
+ production_code":null,"season_number":1,"still_path":"/5Wz9xx1AWGzIHUuy3BC8vwMt7tk.jpg","vote_average":0.0,"vote_count":0},{"air_date":"2002-01-15","crew":[{"id"
+ :1224478,"credit_id":"5257700e760ee36aaa46d92b","name":"Neil Goldman","department":"Writing","job":"Writer","profile_path":null},{"id":1224479,"credit_id":"52577
+ 00e760ee36aaa46d95d","name":"Garrett Donovan","department":"Writing","job":"Writer","profile_path":null},{"id":65506,"credit_id":"52577012760ee36aaa46df75","name
+ ":"Michael Spiller","department":"Directing","job":"Director","profile_path":null}],"episode_number":13,"guest_stars":[{"id":89292,"name":"Elizabeth Bogush","cre
+ dit_id":"52577012760ee36aaa46deb1","character":"","order":1,"profile_path":null},{"id":1216705,"name":"Robert Maschio","credit_id":"5257700c760ee36aaa46d501","ch
+ aracter":"","order":1,"profile_path":"/fXZLhCFMYlqdOKT5hsi9ANWcGvR.jpg"},{"id":46920,"name":"Sam Lloyd","credit_id":"5257700c760ee36aaa46d533","character":"","or
+ der":2,"profile_path":"/xLSxSkq41HNGmK5cCeXqnki8CIz.jpg"},{"id":49551,"name":"Aloma Wright","credit_id":"5257700d760ee36aaa46d597","character":"Laverne Roberts",
+ "order":4,"profile_path":"/wpVaXLACJ4bh1xNniHCyZxl28TV.jpg"},{"id":43776,"name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c9","character":"","order":5,"pro
+ file_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}],"name":"My Balancing Act","overview":"J.D. is frustrated when his budding romance with an ex-patient wilts as the
+ ir dates are constantly interrupted by emergency calls, while the beastly Dr. Kelso becomes less fearsome to the wide-eyed interns, when Dr. Cox informs them how
+ to avoid the blowhard's bite. In addition, a perplexed Carla and Turk deal with their first sexual intimacy complication.","id":326477,"production_code":null,"se
+ ason_number":1,"still_path":"/trrKBmkER94ETFBFT0e0TLROEC7.jpg","vote_average":0.0,"vote_count":0},{"air_date":"2002-01-22","crew":[{"id":58061,"credit_id":"52577
+ 00d760ee36aaa46d86f","name":"Matt Tarses","department":"Writing","job":"Writer","profile_path":null},{"id":65506,"credit_id":"52577012760ee36aaa46df75","name":"M
+ ichael Spiller","department":"Directing","job":"Director","profile_path":null},{"id":1217930,"credit_id":"5257700d760ee36aaa46d8a3","name":"Marc Buckland","depar
+ tment":"Directing","job":"Director","profile_path":null}],"episode_number":14,"guest_stars":[{"id":89292,"name":"Elizabeth Bogush","credit_id":"52577012760ee36aa
+ a46deb1","character":"","order":1,"profile_path":null},{"id":129725,"name":"Al Harrington","credit_id":"52577012760ee36aaa46dfbd","character":"","order":1,"profi
+ le_path":"/6LldNFBZHPr2v23Wp9NmrworQpc.jpg"},{"id":49551,"name":"Aloma Wright","credit_id":"5257700d760ee36aaa46d597","character":"Laverne Roberts","order":4,"pr
+ ofile_path":"/wpVaXLACJ4bh1xNniHCyZxl28TV.jpg"},{"id":43776,"name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c9","character":"","order":5,"profile_path":"/
+ 2s934K6IOUhtjXul54wJbmkeZhK.jpg"}],"name":"My Drug Buddy","overview":"Alex and Elliot argue over missing medication, and J.D. needs to choose sides.\n\nMeanwhile
+ , Dr. Kelso gives Carla a ride to work and she sees a totally different side of him. Turk develops a conflict with Dr. Cox after he finds out that Dr. Cox has se
+ cret feelings for Carla.","id":326478,"production_code":null,"season_number":1,"still_path":"/eJQicz420vxNINJQNvaRJoj89JI.jpg","vote_average":0.0,"vote_count":0}
+ ,{"air_date":"2002-02-05","crew":[{"id":1215673,"credit_id":"5257700e760ee36aaa46dbfd","name":"Lawrence Trilling","department":"Directing","job":"Director","prof
+ ile_path":null},{"id":1237024,"credit_id":"5257700e760ee36aaa46da45","name":"Gabrielle Allan","department":"Writing","job":"Writer","profile_path":null}],"episod
+ e_number":15,"guest_stars":[{"id":1216705,"name":"Robert Maschio","credit_id":"5257700c760ee36aaa46d501","character":"","order":1,"profile_path":"/fXZLhCFMYlqdOK
+ T5hsi9ANWcGvR.jpg"},{"id":49551,"name":"Aloma Wright","credit_id":"5257700d760ee36aaa46d597","character":"Laverne Roberts","order":4,"profile_path":"/wpVaXLACJ4b
+ h1xNniHCyZxl28TV.jpg"},{"id":43776,"name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c9","character":"","order":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZ
+ hK.jpg"}],"name":"My Bed Banter & Beyond","overview":"After going to bed and spending an entire day having sex, J.D. and Elliot go to work trying to hide their n
+ ew secret romance, but everybody already knows it.","id":326479,"production_code":null,"season_number":1,"still_path":"/6L7UtvWKYhv5xM6BkG0dLdCSWw4.jpg","vote_av
+ erage":0.0,"vote_count":0},{"air_date":"2002-02-26","crew":[{"id":1217172,"credit_id":"52577013760ee36aaa46e0a7","name":"Will Mackenzie","department":"Directing"
+ ,"job":"Director","profile_path":null},{"id":1228157,"credit_id":"5257700e760ee36aaa46db3f","name":"Mike Schwartz","department":"Writing","job":"Writer","profile
+ _path":null}],"episode_number":16,"guest_stars":[{"id":17273,"name":"Masi Oka","credit_id":"52577012760ee36aaa46e053","character":"","order":0,"profile_path":"/m
+ pROhAye7U3LBlhhNtqntMwzbCV.jpg"},{"id":1216705,"name":"Robert Maschio","credit_id":"5257700c760ee36aaa46d501","character":"","order":1,"profile_path":"/fXZLhCFMY
+ lqdOKT5hsi9ANWcGvR.jpg"},{"id":46920,"name":"Sam Lloyd","credit_id":"5257700c760ee36aaa46d533","character":"","order":2,"profile_path":"/xLSxSkq41HNGmK5cCeXqnki8
+ CIz.jpg"},{"id":49551,"name":"Aloma Wright","credit_id":"5257700d760ee36aaa46d597","character":"Laverne Roberts","order":4,"profile_path":"/wpVaXLACJ4bh1xNniHCyZ
+ xl28TV.jpg"},{"id":43776,"name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c9","character":"","order":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}],
+ "name":"My Heavy Meddle","overview":"When a rampaging Dr. Cox suddenly shows up at his door in a strange funk, J.D. sees a possibility of a breakthrough in their
+ relationship - until he learns that Cox loses control in almost an annual rite. Meanwhile, Turk elects to partner with Elliot on a research project so that he ca
+ n maneuver her back with his buddy J.D., and Carla struggles to fulfill a comatose patient's final request - playing heavy metal music in his room.","id":326480,
+ "production_code":null,"season_number":1,"still_path":"/dZ8ewHYytI1KsG9iXAdAEAQdskQ.jpg","vote_average":0.0,"vote_count":0},{"air_date":"2002-03-05","crew":[{"id
+ ":1213358,"credit_id":"52577010760ee36aaa46dd7e","name":"Matthew Diamond","department":"Directing","job":"Director","profile_path":null},{"id":1237140,"credit_id
+ ":"52577010760ee36aaa46dcb4","name":"Janae Bakken","department":"Writing","job":"Writer","profile_path":null},{"id":1237141,"credit_id":"52577012760ee36aaa46de35
+ ","name":"Debra Fordham","department":"Writing","job":"Writer","profile_path":null}],"episode_number":17,"guest_stars":[{"id":95468,"name":"Kelli Williams","credi
+ t_id":"52577013760ee36aaa46e0e9","character":"","order":0,"profile_path":"/i3vsRl4xhsBCoixaiOHPqwGQ65L.jpg"},{"id":132078,"name":"DJ Qualls","credit_id":"52577013
+ 760ee36aaa46e11b","character":"","order":1,"profile_path":"/foe0XuHIgVHsnrMBYlgYtsR3Z2V.jpg"},{"id":1216705,"name":"Robert Maschio","credit_id":"5257700c760ee36aa
+ a46d501","character":"","order":1,"profile_path":"/fXZLhCFMYlqdOKT5hsi9ANWcGvR.jpg"},{"id":49551,"name":"Aloma Wright","credit_id":"5257700d760ee36aaa46d597","cha
+ racter":"Laverne Roberts","order":4,"profile_path":"/wpVaXLACJ4bh1xNniHCyZxl28TV.jpg"},{"id":43776,"name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c9","cha
+ racter":"","order":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}],"name":"My Student","overview":"J.D., Elliot and Turk are receiving their first medical s
+ tudents, and now they finally get a chance to see what it feels like to be on the other side. Turk's student is a very attractive young woman, to whom Dr. Cox is 
+ immediately attracted. But he doesn't know his way around women and needs Turk to give him a little help. J.D. doesn't know how to handle his student and Elliot's
+ turns out to the be son of an important CEO.","id":326481,"production_code":null,"season_number":1,"still_path":"/ohYtD7vuwZkvH8uhv7sPrBiacuf.jpg","vote_average":0
+ .0,"vote_count":0},{"air_date":"2002-03-12","crew":[{"id":1215673,"credit_id":"5257700e760ee36aaa46dbfd","name":"Lawrence Trilling","department":"Directing","job":
+ "Director","profile_path":null},{"id":1222719,"credit_id":"52577012760ee36aaa46defd","name":"Mark Stegemann","department":"Writing","job":"Writer","profile_path":n
+ ull},{"id":1237141,"credit_id":"52577012760ee36aaa46de35","name":"Debra Fordham","department":"Writing","job":"Writer","profile_path":null}],"episode_number":18,"g
+ uest_stars":[{"id":95468,"name":"Kelli Williams","credit_id":"52577013760ee36aaa46e0e9","character":"","order":0,"profile_path":"/i3vsRl4xhsBCoixaiOHPqwGQ65L.jpg"}
+ ,{"id":43776,"name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c9","character":"","order":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}],"name":"My Tus
+ caloosa Heart","overview":"J.D. has a patient who's rude to him and the nurses and eventually dies from cancer. J.D. feels awful for not giving him his full attent
+ ion and worries maybe he could have saved the guy if he was nicer to him.\n\nMeanwhile, Elliot is convinced that Dr. Kelso is the one singing a song called \"Tusca
+ loosa Heart\" on a tape given to her by a patient who claims he went to college with Bob. And Dr. Cox finds himself trapped in a love square: He's falling in love 
+ with Kristen Murphy, his intern, just as his ex-wife reappears demanding sex – and there's also his crush on Carla.","id":326482,"production_code":null,"season_num
+ ber":1,"still_path":"/nFHbE4nn4akV8B7Lc1qIaXO7kNg.jpg","vote_average":0.0,"vote_count":0},{"air_date":"2002-04-09","crew":[{"id":58061,"credit_id":"5257700d760ee36
+ aaa46d86f","name":"Matt Tarses","department":"Writing","job":"Writer","profile_path":null},{"id":111338,"credit_id":"5257700d760ee36aaa46d631","name":"Adam Bernste
+ in","department":"Directing","job":"Director","profile_path":"/h5TqewYvopqv2AeZytYcrMSupqu.jpg"}],"episode_number":19,"guest_stars":[{"id":35521,"name":"Matt Winst
+ on","credit_id":"5257700c760ee36aaa46d4cf","character":"","order":0,"profile_path":"/vjXom4PhSWEkXlQDhh8ubTFoiIq.jpg"},{"id":1212688,"name":"Hattie Winston","credi
+ t_id":"52577013760ee36aaa46e1bd","character":"","order":1,"profile_path":"/dwiglObCKhTDJsp6Rn8KsHfFWmz.jpg"},{"id":27772,"name":"John Ritter","credit_id":"52577013
+ 760ee36aaa46e1ef","character":"","order":2,"profile_path":"/oM4iv6O97gK7JFiNkdjEBeuN5Q4.jpg"},{"id":7402,"name":"Markie Post","credit_id":"52577013760ee36aaa46e221
+ ","character":"","order":3,"profile_path":"/wLrZzTqyHb4zpLr2bQjizGG4y5w.jpg"},{"id":8655,"name":"R. Lee Ermey","credit_id":"52577013760ee36aaa46e253","character":"
+ ","order":4,"profile_path":"/aRuHY9ct7LA4fEv1bdzOlPK1ClW.jpg"},{"id":153936,"name":"Lane Davies","credit_id":"52577013760ee36aaa46e285","character":"","order":5,"p
+ rofile_path":null},{"id":43776,"name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c9","character":"","order":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg
+ "}],"name":"My Old Man","overview":"An assortment of moms and dads descend on their offspring at home and in the workplace. J.D.'s father is a gregarious yet lonel
+ y divorcee who's desperately trying to be just one of the guys. Elliot's folks, on the other hand, are a snooty couple whose pompous behavior dismays their daughte
+ r. Similarly rattled is Turk, unnerved by the bonding of his girlfriend, Carla, and his brassy mother. But the most vexatious parent by far is the janitor's dad.",
+ "id":326483,"production_code":null,"season_number":1,"still_path":"/9TY0ih2tEDONzalpwjDUOtqwEE8.jpg","vote_average":0.0,"vote_count":0},{"air_date":"2002-04-16","c
+ rew":[{"id":111338,"credit_id":"5257700d760ee36aaa46d631","name":"Adam Bernstein","department":"Directing","job":"Director","profile_path":"/h5TqewYvopqv2AeZytYcrM
+ Supqu.jpg"},{"id":1222591,"credit_id":"5257700d760ee36aaa46d749","name":"Eric Weinberg","department":"Writing","job":"Writer","profile_path":null}],"episode_number
+ ":20,"guest_stars":[{"id":62833,"name":"Charles Rahi Chun","credit_id":"5257700d760ee36aaa46d6d1","character":"","order":0,"profile_path":"/eQIo5xMlggtkmWbZDM8UsMq
+ r7pS.jpg"},{"id":35595,"name":"Scott Foley","credit_id":"52577013760ee36aaa46e2e6","character":"","order":0,"profile_path":"/sqZxruEjuXUG52kuOItnOVoDjPZ.jpg"},{"id
+ ":1216705,"name":"Robert Maschio","credit_id":"5257700c760ee36aaa46d501","character":"","order":1,"profile_path":"/fXZLhCFMYlqdOKT5hsi9ANWcGvR.jpg"},{"id":98406,"n
+ ame":"Paige Peterson","credit_id":"52577013760ee36aaa46e31e","character":"","order":2,"profile_path":null},{"id":49551,"name":"Aloma Wright","credit_id":"5257700d7
+ 60ee36aaa46d597","character":"Laverne Roberts","order":4,"profile_path":"/wpVaXLACJ4bh1xNniHCyZxl28TV.jpg"},{"id":43776,"name":"Neil Flynn","credit_id":"5257700d76
+ 0ee36aaa46d5c9","character":"","order":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}],"name":"My Way or the Highway","overview":"Turk's competitiveness is s
+ tarting to annoy J.D., especially when it crosses the line of personal jokes and comes to patient's matters.\n\nMeanwhile, Dr. Cox finally has a taste of good coff
+ ee, but thanks to his feud with Dr. Kelso, the only nurse who was able to make it gets fired. Elliot meets a very attractive patient, whom she instantly identifies
+ , but has a really hard time getting him to ask her out.","id":326484,"production_code":null,"season_number":1,"still_path":"/5N51wb0dF7AtrfXwN9MG8ObcHAi.jpg","vote
+ _average":0.0,"vote_count":0},{"air_date":"2002-04-30","crew":[{"id":1222719,"credit_id":"52577012760ee36aaa46defd","name":"Mark Stegemann","department":"Writing","
+ job":"Writer","profile_path":null},{"id":1237140,"credit_id":"52577010760ee36aaa46dcb4","name":"Janae Bakken","department":"Writing","job":"Writer","profile_path":n
+ ull},{"id":1217930,"credit_id":"5257700d760ee36aaa46d8a3","name":"Marc Buckland","department":"Directing","job":"Director","profile_path":null}],"episode_number":21
+ ,"guest_stars":[{"id":35595,"name":"Scott Foley","credit_id":"52577013760ee36aaa46e2e6","character":"","order":0,"profile_path":"/sqZxruEjuXUG52kuOItnOVoDjPZ.jpg"},
+ {"id":42157,"name":"Ed Begley Jr.","credit_id":"52577014760ee36aaa46e388","character":"","order":1,"profile_path":"/m264FJDCnB5H6qyU2sDKjs9tM86.jpg"},{"id":1216705,
+ "name":"Robert Maschio","credit_id":"5257700c760ee36aaa46d501","character":"","order":1,"profile_path":"/fXZLhCFMYlqdOKT5hsi9ANWcGvR.jpg"},{"id":10775,"name":"Willi
+ am Daniels","credit_id":"52577014760ee36aaa46e3ba","character":"","order":2,"profile_path":"/goOs7NBmGdAHuuIy1KrEUjLXj4S.jpg"},{"id":46920,"name":"Sam Lloyd","credi
+ t_id":"5257700c760ee36aaa46d533","character":"","order":2,"profile_path":"/xLSxSkq41HNGmK5cCeXqnki8CIz.jpg"},{"id":52304,"name":"Stephen Furst","credit_id":"5257701
+ 4760ee36aaa46e3ec","character":"","order":3,"profile_path":"/omZKqkF9PrOS4mNyFPpu5iZcdAL.jpg"},{"id":47020,"name":"Eric Laneuville","credit_id":"52577014760ee36aaa4
+ 6e41e","character":"","order":4,"profile_path":"/eIN9ieuStP78hnbBleinfneY4Bq.jpg"},{"id":49551,"name":"Aloma Wright","credit_id":"5257700d760ee36aaa46d597","charact
+ er":"Laverne Roberts","order":4,"profile_path":"/wpVaXLACJ4bh1xNniHCyZxl28TV.jpg"},{"id":43776,"name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c9","character
+ ":"","order":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}],"name":"My Sacrificial Clam","overview":"J.D. fears being contaminated with Hepatitis B, after a 
+ needle accidentally sticks his forearm.\n\nMeanwhile, Elliot has a hard time combining her new relationship and keeping up with studies. Turk obsesses about getting
+ in shape, after Carla makes a fat joke about him.","id":326485,"production_code":null,"season_number":1,"still_path":"/5kK8Z9DrTMEZEj85jad35PRughH.jpg","vote_averag
+ e":0.0,"vote_count":0},{"air_date":"2002-05-07","crew":[{"id":1215673,"credit_id":"5257700e760ee36aaa46dbfd","name":"Lawrence Trilling","department":"Directing","jo
+ b":"Director","profile_path":null},{"id":1216859,"credit_id":"5257700d760ee36aaa46d5fd","name":"Bill Lawrence","department":"Writing","job":"Writer","profile_path":
+ null}],"episode_number":22,"guest_stars":[{"id":17273,"name":"Masi Oka","credit_id":"52577012760ee36aaa46e053","character":"","order":0,"profile_path":"/mpROhAye7U3
+ LBlhhNtqntMwzbCV.jpg"},{"id":18269,"name":"Brendan Fraser","credit_id":"52577014760ee36aaa46e48e","character":"","order":0,"profile_path":"/uNUsbLspmJxSKbix7ot2mBNF
+ P6K.jpg"},{"id":128155,"name":"Johnny Kastl","credit_id":"5257700e760ee36aaa46da8f","character":"","order":0,"profile_path":null},{"id":16845,"name":"Nicole Sulliva
+ n","credit_id":"52577010760ee36aaa46dd36","character":"","order":0,"profile_path":"/q2SXssaDMSuTGna4gw5aoFDFUEF.jpg"},{"id":1216705,"name":"Robert Maschio","credit_
+ id":"5257700c760ee36aaa46d501","character":"","order":1,"profile_path":"/fXZLhCFMYlqdOKT5hsi9ANWcGvR.jpg"},{"id":46920,"name":"Sam Lloyd","credit_id":"5257700c760ee
+ 36aaa46d533","character":"","order":2,"profile_path":"/xLSxSkq41HNGmK5cCeXqnki8CIz.jpg"},{"id":212821,"name":"Christa Miller","credit_id":"5257700e760ee36aaa46da0b"
+ ,"character":"","order":2,"profile_path":"/zPdU6x3PZRon5e8niwqziPJJb0b.jpg"},{"id":43776,"name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c9","character":"","o
+ rder":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}],"name":"My Occurrence","overview":"Jordan's brother Ben is admitted at Sacred Heart for having an acciden
+ t with a nail gun. J.D. learns that Ben has leukemia, but won't believe it, since there have been many mixups in the hospital lately, so he goes on a search for the 
+ real test results.","id":326486,"production_code":null,"season_number":1,"still_path":"/w3KaABIp8uY033fyCKw6OV51UL0.jpg","vote_average":0.0,"vote_count":0},{"air_dat
+ e":"2002-05-14","crew":[{"id":1224478,"credit_id":"5257700e760ee36aaa46d92b","name":"Neil Goldman","department":"Writing","job":"Writer","profile_path":null},{"id":1
+ 224479,"credit_id":"5257700e760ee36aaa46d95d","name":"Garrett Donovan","department":"Writing","job":"Writer","profile_path":null},{"id":65506,"credit_id":"5257701276
+ 0ee36aaa46df75","name":"Michael Spiller","department":"Directing","job":"Director","profile_path":null}],"episode_number":23,"guest_stars":[{"id":18269,"name":"Brend
+ an Fraser","credit_id":"52577014760ee36aaa46e48e","character":"","order":0,"profile_path":"/uNUsbLspmJxSKbix7ot2mBNFP6K.jpg"},{"id":62833,"name":"Charles Rahi Chun",
+ "credit_id":"5257700d760ee36aaa46d6d1","character":"","order":0,"profile_path":"/eQIo5xMlggtkmWbZDM8UsMqr7pS.jpg"},{"id":1216705,"name":"Robert Maschio","credit_id":
+ "5257700c760ee36aaa46d501","character":"","order":1,"profile_path":"/fXZLhCFMYlqdOKT5hsi9ANWcGvR.jpg"},{"id":46920,"name":"Sam Lloyd","credit_id":"5257700c760ee36aaa
+ 46d533","character":"","order":2,"profile_path":"/xLSxSkq41HNGmK5cCeXqnki8CIz.jpg"},{"id":212821,"name":"Christa Miller","credit_id":"5257700e760ee36aaa46da0b","char
+ acter":"","order":2,"profile_path":"/zPdU6x3PZRon5e8niwqziPJJb0b.jpg"},{"id":129661,"name":"Bob Clendenin","credit_id":"52577014760ee36aaa46e516","character":"","ord
+ er":2,"profile_path":"/312jxn8pUhINNnxQSujnTUlwlwT.jpg"},{"id":1212125,"name":"Lela Lee","credit_id":"5257700d760ee36aaa46d835","character":"","order":4,"profile_pat
+ h":null},{"id":49551,"name":"Aloma Wright","credit_id":"5257700d760ee36aaa46d597","character":"Laverne Roberts","order":4,"profile_path":"/wpVaXLACJ4bh1xNniHCyZxl28T
+ V.jpg"},{"id":43776,"name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c9","character":"","order":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}],"name":"M
+ y Hero","overview":"Ben takes the news of his diagnosis pretty well - at least better than his sister Jordan and J.D. Remarkably, it is Dr. Cox who is the voice of r
+ eason and compassion, until his own fears get in the way.\n\nMeanwhile, Turk and Elliot have their own issues to deal with. Turk is upset because he wasn't chosen to
+ assist on a difficult surgery and Elliot is criticized during rounds by Dr. Kelso for the 100th time.","id":326487,"production_code":null,"season_number":1,"still_pa
+ th":"/onCQB1Z2KJk6m6FhSWDYmvqx5yp.jpg","vote_average":0.0,"vote_count":0},{"air_date":"2002-05-21","crew":[{"id":1237024,"credit_id":"5257700e760ee36aaa46da45","name
+ ":"Gabrielle Allan","department":"Writing","job":"Writer","profile_path":null},{"id":1228157,"credit_id":"5257700e760ee36aaa46db3f","name":"Mike Schwartz","departmen
+ t":"Writing","job":"Writer","profile_path":null},{"id":65506,"credit_id":"52577012760ee36aaa46df75","name":"Michael Spiller","department":"Directing","job":"Director
+ ","profile_path":null}],"episode_number":24,"guest_stars":[{"id":62833,"name":"Charles Rahi Chun","credit_id":"5257700d760ee36aaa46d6d1","character":"","order":0,"pr
+ ofile_path":"/eQIo5xMlggtkmWbZDM8UsMqr7pS.jpg"},{"id":1216705,"name":"Robert Maschio","credit_id":"5257700c760ee36aaa46d501","character":"","order":1,"profile_path":
+ "/fXZLhCFMYlqdOKT5hsi9ANWcGvR.jpg"},{"id":46920,"name":"Sam Lloyd","credit_id":"5257700c760ee36aaa46d533","character":"","order":2,"profile_path":"/xLSxSkq41HNGmK5cC
+ eXqnki8CIz.jpg"},{"id":212821,"name":"Christa Miller","credit_id":"5257700e760ee36aaa46da0b","character":"","order":2,"profile_path":"/zPdU6x3PZRon5e8niwqziPJJb0b.jp
+ g"},{"id":49551,"name":"Aloma Wright","credit_id":"5257700d760ee36aaa46d597","character":"Laverne Roberts","order":4,"profile_path":"/wpVaXLACJ4bh1xNniHCyZxl28TV.jpg
+ "},{"id":43776,"name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c9","character":"","order":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}],"name":"My Last
+ Day","overview":"It's J.D.'s last day as an intern, and soon he will become a resident. Carla and Turk are arguing about dating other people. Elliot finally rebels ag
+ ainst being everyone's doormat, and J.D. is just trying to stay out of people's way.\n\nJordan has returned to get a physical and a new patient, Mr. Bober, has been a
+ dmitted, because he needs his gall bladder removed. He really needs the surgery, but doesn't have the insurance to pay for it. They enlist the help of Dr. Cox, Dr. We
+ n and Jordan.","id":326488,"production_code":null,"season_number":1,"still_path":"/2jJ96Vv6MrGbP1pGo1pcH5Xl2XO.jpg","vote_average":0.0,"vote_count":0}],"name":"Season
+ 1","overview":"The first season of the American comedy-drama television series Scrubs premiered on NBC on October 2, 2001 and concluded on May 21, 2002 and consists o
+ f 24 episodes. Scrubs was created by Bill Lawrence who wrote the pilot as well as 3 other episodes in the season. Adam Bernstein directed the pilot as well as 4 other
+ episodes. Neil Flynn was only a guest star in the first season, although he appeared in every episode of the season. Bill Lawrence said if the show had been cancelled
+ at the end of the first season, he would have made the Janitor a figment of J.D.'s imagination.","id":13775,"poster_path":"/6gf3dMu3XsN6eCJX10BO4p7bkRK.jpg","season_number":1}

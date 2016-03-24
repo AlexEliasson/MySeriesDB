@@ -1,0 +1,51 @@
+{
+	"backdrop_path":"/b6vgobTX9zI833OrwoN2gd880wf.jpg",
+	"created_by":
+	[
+		{"id":1216859,"name":"Bill Lawrence","profile_path":null}
+	],
+	"episode_run_time":[22],
+	"first_air_date":"2001-10-02",
+	"genres":
+	[
+		{"id":18,"name":"Drama"},
+		{"id":35,"name":"Comedy"}
+	],
+	"homepage":"http://abcstudiosmedianet.com/web/showpage/showpage.aspx?program_id=002668&type=lead",
+	"id":4556,
+	"in_production":false,
+	"languages":["en"],
+	"last_air_date":"2010-03-17",
+	"name":"Scrubs",
+	"networks":
+	[
+		{"id":2,"name":"American Broadcasting Company"},
+		{"id":6,"name":"NBC"}
+	],
+	"number_of_episodes":182,
+	"number_of_seasons":9,
+	"origin_country":["US"],
+	"original_language":"en",
+	"original_name":"Scrubs",
+	"overview":"Scrubs is an American medical comedy-drama television series created by Bill Lawrence that aired from October 2, 2001 to March 17, 2010 on NBC and later ABC. The series follows the lives of employees at the fictional Sacred Heart teaching hospital. The title is a play on surgical scrubs and a term for a low-ranking person because at the beginning of the series, most of the main characters were medical interns.",
+	"popularity":3.796114,
+	"poster_path":"/x40NhjIPoDoTbT0z2utFgIedtwh.jpg",
+	"production_companies":[],
+	"seasons":
+	[
+		{"air_date":"2009-02-03","episode_count":1,"id":13784,"poster_path":"/hXCv3Vl8uCvyu7gbCEchNPf5f05.jpg","season_number":0},
+		{"air_date":"2001-10-02","episode_count":24,"id":13775,"poster_path":"/6gf3dMu3XsN6eCJX10BO4p7bkRK.jpg","season_number":1},
+		{"air_date":"2002-09-26","episode_count":22,"id":13776,"poster_path":"/ywM8frSjXGYYEkAqFh6LLiYBqCp.jpg","season_number":2},
+		{"air_date":"2003-10-02","episode_count":22,"id":13777,"poster_path":"/y28rSGrnszkRdiBXxZv2hKrroWv.jpg","season_number":3},
+		{"air_date":"2004-08-31","episode_count":25,"id":13778,"poster_path":"/dfMkLAIp5VW8BgaO06kwscmuZqU.jpg","season_number":4},
+		{"air_date":"2006-01-03","episode_count":24,"id":13779,"poster_path":"/yZaTdoRmIC7JOifiOALSW3w7I3J.jpg","season_number":5},
+		{"air_date":"2006-11-30","episode_count":22,"id":13780,"poster_path":"/y0LR9uXS151SwcEPmkWa2uOg5MJ.jpg","season_number":6},
+		{"air_date":"2007-10-25","episode_count":11,"id":13781,"poster_path":"/p423GuqQhqDFlXPRPwudb4RoeFF.jpg","season_number":7},
+		{"air_date":"2009-01-06","episode_count":19,"id":13782,"poster_path":"/yIQszBkyuzzbr6vfnrfIoW4pz4E.jpg","season_number":8},
+		{"air_date":"2009-12-01","episode_count":13,"id":13783,"poster_path":"/piJOya9MI0cLdEAd25rix4pRByJ.jpg","season_number":9}
+	],
+	"status":"Ended",
+	"type":"Scripted",
+	"vote_average":7.8,
+	"vote_count":76
+}

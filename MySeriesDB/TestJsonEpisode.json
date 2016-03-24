@@ -1,0 +1,32 @@
+{
+	"air_date":"2001-10-02",
+	"crew":
+	[
+		{"id":1216859,"credit_id":"5257700d760ee36aaa46d5fd","name":"Bill Lawrence","department":"Writing","job":"Writer","profile_path":null},
+		{"id":111338,"credit_id":"5257700d760ee36aaa46d631","name":"Adam Bernstein","department":"Directing","job":"Director","profile_path":"/h5TqewYvopqv2AeZytYcrMSupqu.jpg"},
+		{"id":1222591,"credit_id":"5257700d760ee36aaa46d749","name":"Eric Weinberg","department":"Writing","job":"Writer","profile_path":null},
+		{"id":1216859,"credit_id":"52577015760ee36aaa46e68e","name":"Bill Lawrence","department":"Directing","job":"Director","profile_path":null}
+	],
+	"episode_number":1,
+	"guest_stars":
+	[
+		{"id":35521,"name":"Matt Winston","credit_id":"5257700c760ee36aaa46d4cf","character":"","order":0,"profile_path":"/vjXom4PhSWEkXlQDhh8ubTFoiIq.jpg"},
+		{"id":116907,"name":"Marshall Manesh","credit_id":"52577014760ee36aaa46e5ee","character":"","order":1,"profile_path":"/168Eocdc4VrVHMf76kLU6QqK6cL.jpg"},
+		{"id":1216705,"name":"Robert Maschio","credit_id":"5257700c760ee36aaa46d501","character":"","order":1,"profile_path":"/fXZLhCFMYlqdOKT5hsi9ANWcGvR.jpg"},
+		{"id":69122,"name":"Heather Graham","credit_id":"52577014760ee36aaa46e620","character":"","order":2,"profile_path":"/xqKEAblSGSj41hjaiydLiM9BT8h.jpg"},
+		{"id":46920,"name":"Sam Lloyd","credit_id":"5257700c760ee36aaa46d533","character":"","order":2,"profile_path":"/xLSxSkq41HNGmK5cCeXqnki8CIz.jpg"},
+		{"id":212821,"name":"Christa Miller","credit_id":"5257700e760ee36aaa46da0b","character":"","order":2,"profile_path":"/zPdU6x3PZRon5e8niwqziPJJb0b.jpg"},
+		{"id":78030,"name":"Ashley Benson","credit_id":"52577015760ee36aaa46e652","character":"","order":3,"profile_path":"/wIRcYgnVqxZEPzxAXUWFISSoiQg.jpg"},
+		{"id":1231142,"name":"Michael Hobert","credit_id":"5257700c760ee36aaa46d565","character":"","order":3,"profile_path":null},
+		{"id":49551,"name":"Aloma Wright","credit_id":"5257700d760ee36aaa46d597","character":"Laverne Roberts","order":4,"profile_path":"/wpVaXLACJ4bh1xNniHCyZxl28TV.jpg"},
+		{"id":43776,"name":"Neil Flynn","credit_id":"5257700d760ee36aaa46d5c9","character":"","order":5,"profile_path":"/2s934K6IOUhtjXul54wJbmkeZhK.jpg"}
+	],
+	"name":"My First Day",
+	"overview":"John Dorian, \"J.D.\" to friends, is a boyishly handsome, self-deprecatingly funny, likeable guy who would be confident if he only realized his assets. Four years of medical school have prepared J.D. for his first day as an intern at Sacred Heart Hospital - but he has his doubts. As J.D. is thrown into the chaotic world of hospital life, we not only get to see the quirky characters that he encounters, but also hear the humorous commentary of thoughts streaming through J.D.'s head. By J.D.'s side is his best friend since college, the handsome and confident Chris Turk. As a new surgical intern, Turk struts around with a gregarious and cocky demeanor that hides a terror that he only admits to J.D. Both guys initially have the hots for their attractive fellow intern, Elliot Reid, but J.D. quickly finds out her beauty is only surpassed by her hyper-competitive attitude. Guiding the interns' education are those with more medical experience. Dr. Robert \"Bob\" Kelso, Chief of Medicine, wants the interns to think they can count on him. On the other side of the personality spectrum is Dr. Percival \"Perry\" Cox, a steamroller of a man short on patience. Watching over the interns with a caustically teasing but caring demeanor, is nurse Carla Espinosa, a woman who is motherly and sexy at the same time - which appeals mightily to Turk.",
+	"id":326465,
+	"production_code":null,
+	"season_number":1,
+	"still_path":"/jIQnOq0bXgm1GkMoH1Hdz28aYVQ.jpg",
+	"vote_average":0.0,
+	"vote_count":0
+}
